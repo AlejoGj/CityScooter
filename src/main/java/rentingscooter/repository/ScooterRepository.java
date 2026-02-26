@@ -1,2 +1,9 @@
-package rentingscooter.repository;public class ScooterRepository {
+package rentingscooter.repository;
+
+public class ScooterRepository {
+
+
+
+
+
 }
